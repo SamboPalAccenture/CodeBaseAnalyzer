@@ -42,9 +42,6 @@ Install q:
 
 # macOS (Homebrew)
 brew install q-chat-ai/q/q
-# or via other methods
-# Visit: https://github.com/q-chat-ai/q
-
 
 Check it works:
 q chat --help
